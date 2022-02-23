@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Kamaleão**
 
-- 🌱 I’m currently learning **OOP in PHP, Digital Art**
+- 🌱 I’m currently learning **React and React Native*
 
 - 📫 How to reach me **carolsenase@gmai.com**
 
-- ⚡ Fun fact **I'm a better artist than a developer**
+- ⚡ Fun fact **I'm might not be the better developer you are going to find, but I'm working hard to reach this place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
